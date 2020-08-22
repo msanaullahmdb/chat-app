@@ -1,0 +1,7 @@
+ ############### Deploying chat App ############
+
+
+
+1. git init
+2..gitignore (folder create)
+3.
